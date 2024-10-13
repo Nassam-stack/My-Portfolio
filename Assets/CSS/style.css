@@ -27,6 +27,10 @@ h3{ font-family: cursive;
     
 
 }
+hr{
+    border: none;
+    border-top: 1px solid black;
+}
 
 .container{
     margin-top: 6%;
